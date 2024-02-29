@@ -1,0 +1,16 @@
+[
+    {
+        "appointmentTime": "10:30 AM",
+        "appointmentDate": "2024-01-24T00:00:00.000Z",
+        "isActive": true,
+        "appointmentId": "UZR-001",
+        "appointmentStatus": "approved"
+    },
+    {
+        "appointmentId": "UZR-002",
+        "appointmentTime": "10:30 AM",
+        "appointmentDate": "2024-01-24T00:00:00.000Z",
+        "appointmentStatus": "pending",
+        "isActive": true
+    }
+]
